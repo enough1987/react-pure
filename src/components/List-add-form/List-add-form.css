@@ -1,0 +1,13 @@
+.add-form, .add-form-error {
+    display: flex;
+    justify-content: space-around;
+}
+
+.add-form-item, .add-form-item-error {
+    display: block;
+    padding: 10px;
+}
+
+.add-form-item-error {
+    color: red;
+}

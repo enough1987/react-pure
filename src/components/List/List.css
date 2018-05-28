@@ -1,0 +1,13 @@
+
+.header, header-body {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-item, header-body-item {
+    padding: 10px;
+}
+
+.no-data {
+    text-align: center;
+}

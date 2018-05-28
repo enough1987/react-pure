@@ -1,0 +1,13 @@
+.not-faund {
+    font-family: Arial;
+    color: #555;
+    margin: 40px 40px 40px 40%;
+}
+
+.not-faund-title {
+    font-size: 5em;
+}
+
+.not-faund-body {
+    color: #777;
+}
